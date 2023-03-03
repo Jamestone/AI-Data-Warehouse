@@ -37,6 +37,8 @@
 |  ----  | ----  | ----  |
 | https://metrodb.org/ | 地铁数据库 | 中国地铁信息概览 |
 | https://majestic.com/reports/majestic-million | The Majestic Million |全球排名前 100w 域名 The million domains we find with the most referring subnets|
+| https://datasette.io/ | Datasette | 开源的数据探索工具，可以从各种数据源导入数据，然后自定义数据的查询和展示形式（图表、仪表盘、地图等等） |
+| https://github.com/manticoresoftware/manticoresearch | Manticore Search | 一个开源的全文搜索引擎，号称可以替代 Elasticsearch，支持中文。 |
 
 
 
