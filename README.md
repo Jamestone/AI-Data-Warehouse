@@ -18,6 +18,9 @@
 | https://waifulabs.com/ | WaifuLabs | AI 绘制自定义漫画肖像，做成游戏 |
 | https://www.nolibox.com/ | 计算美学Nolibox | AI 作画，AI 设计 |
 | https://www.giiso.com/#/ | Giiso | AI 写作 |
+| https://interiorai.com/ | InteriorAI | 室内设计 AI |
+| https://chord.ooo | Chord | 通过总结 Reddit 和较大的专业型网站，来回答问题的搜索引擎，相当于从这些内容中脱水并进行总结，是联网的 LLM（大型语言模型） |
+| https://www.perplexity.ai/ | Perplexity | 人工智能引擎，你向它提问，它告诉你答案，支持中文 |
 
 
 
@@ -39,6 +42,12 @@
 | https://majestic.com/reports/majestic-million | The Majestic Million |全球排名前 100w 域名 The million domains we find with the most referring subnets|
 | https://datasette.io/ | Datasette | 开源的数据探索工具，可以从各种数据源导入数据，然后自定义数据的查询和展示形式（图表、仪表盘、地图等等） |
 | https://github.com/manticoresoftware/manticoresearch | Manticore Search | 一个开源的全文搜索引擎，号称可以替代 Elasticsearch，支持中文。 |
+| https://www.infrapedia.com/app | INFRAPEDIA | 全世界的主干光纤线路和机房位置 |
 
 
+## 区块链 - 去中心化
+
+|  链接  | 名称 | 简介 |
+|  ----  | ----  | ----  |
+| https://skydroid.app/ | SkyDroid | 一个分布式的安卓应用商店，发布应用就是自己架一个服务器，把应用放上去，一个小时之内就会被全球索引。它的好处就是没人能下架你的应用 |
 
