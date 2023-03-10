@@ -24,6 +24,7 @@
 | https://www.tabnine.com/ | Tabnine | Tabnine 是一个机器学习驱动的代码自动补全工具，是在 GPT-2 的基础上构建的，面向语言有 Java、Javascript、Python、PHP、Go、Rust、Ruby、C++、Typescript,支持的编辑器有 Visual Studio Code、Microsoft Visual Studio、SubLime、JetBrains 等 |
 | https://gitee.com/codegeex/CodeGeeX | CodeGeeX | 是一个具有 130 亿个参数的大型多语言代码生成模型，预先经过 20 多种编程语言的大型代码库训练，国产化支持。（最新描述达到千亿模型参数） |
 | https://github.com/features/copilot/ | Copilot | GitHub Copilot 是 GitHub 和 OpenAI 合作开发的一个人工智能工具，用户在使用 Visual Studio Code、Microsoft Visual Studio、Vim 或 JetBrains 集成开发环境时可以通过 GitHub Copilot 自动补全代码，主要面向 Python、JavaScript、TypeScript、Ruby 和 Go 等编程语言 |
+| https://thissneakerdoesnotexist.com/ | This sneaker does not exist | 所有运动鞋图片由机器学习模型生成 |
 
 
 
