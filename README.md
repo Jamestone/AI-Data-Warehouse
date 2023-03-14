@@ -10,7 +10,7 @@
 | https://www.hellohistory.ai/ | HelloHistory | Character.ai 的网站，允许用户创建"角色"，上传与该角色相关的资料，网站就会自动使用 AI 分析这些资料，生成该角色的聊天机器人，然后用户就可以跟它聊天了。|
 | https://stablediffusionweb.com/ | Stable Diffusion | AI 作画 |
 | https://runwayml.com/ | Runway | AI 视频 |
-| https://podcast.adobe.com/ |Adobe Podcast| AI 录音处理 |
+| https://podcast.adobe.com/ | Adobe Podcast | AI 录音处理 |
 | https://www.jasper.ai/ | Jasper | AI 写作 |
 | https://www.d-id.com/ | D-ID | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. |
 | https://x.moyin.com/ | 魔撰写作 | AI 写作、润色 |
@@ -25,6 +25,11 @@
 | https://gitee.com/codegeex/CodeGeeX | CodeGeeX | 是一个具有 130 亿个参数的大型多语言代码生成模型，预先经过 20 多种编程语言的大型代码库训练，国产化支持。（最新描述达到千亿模型参数） |
 | https://github.com/features/copilot/ | Copilot | GitHub Copilot 是 GitHub 和 OpenAI 合作开发的一个人工智能工具，用户在使用 Visual Studio Code、Microsoft Visual Studio、Vim 或 JetBrains 集成开发环境时可以通过 GitHub Copilot 自动补全代码，主要面向 Python、JavaScript、TypeScript、Ruby 和 Go 等编程语言 |
 | https://thissneakerdoesnotexist.com/ | This sneaker does not exist | 所有运动鞋图片由机器学习模型生成 |
+| https://beta.tome.app/ | tome | AI 做PPT。AI-powered storytelling format |
+| https://www.usegalileo.ai/ | Galileo AI | 一款利用 AI 技术生成 UI 界面的工具 |
+| https://www.beautiful.ai/ | beautiful.ai | 可以帮助用户创建吸引人的、容易制作的演示文稿 |
+| https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
+| https://stablediffusionweb.com/ | Stable Diffusion | 文本到图像的模型。A latent text-to-image diffusion model |
 
 
 
