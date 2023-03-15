@@ -30,6 +30,7 @@
 | https://www.beautiful.ai/ | beautiful.ai | 可以帮助用户创建吸引人的、容易制作的演示文稿 |
 | https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
 | https://stablediffusionweb.com/ | Stable Diffusion | 文本到图像的模型。A latent text-to-image diffusion model |
+| https://openprompt.co/ | OpenPrompt | 创建，使用，分享 ChatGPT 的 Prompt |
 
 
 
