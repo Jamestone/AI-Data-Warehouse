@@ -6,31 +6,35 @@
 |  ----  | ----  |----  |
 | https://chat.openai.com/chat | ChatGPT | AI 聊天机器人 |
 | https://openai.com/dall-e-2/ | DALL·E 2 | AI 文本生成图像 |
-| https://soundraw.io/ | Sounddraw | 一个 AI 音乐生成器 |
 | https://www.hellohistory.ai/ | HelloHistory | Character.ai 的网站，允许用户创建"角色"，上传与该角色相关的资料，网站就会自动使用 AI 分析这些资料，生成该角色的聊天机器人，然后用户就可以跟它聊天了。|
-| https://stablediffusionweb.com/ | Stable Diffusion | AI 作画 |
-| https://runwayml.com/ | Runway | AI 视频 |
-| https://podcast.adobe.com/ | Adobe Podcast | AI 录音处理 |
+| https://openprompt.co/ | OpenPrompt | 创建，使用，分享 ChatGPT 的 Prompt |
+| https://promptperfect.jina.ai/ | PromptPerfect | 专为生成式 AI 优化输入提示（prompt）的工具。 |
+| https://github.com/Bin-Huang/chatbox | ChatBox | OpenAI API 跨平台桌面客户端，主要用作 Prompt Debugging Console |
 | https://www.jasper.ai/ | Jasper | AI 写作 |
-| https://www.d-id.com/ | D-ID | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. |
 | https://x.moyin.com/ | 魔撰写作 | AI 写作、润色 |
-| https://www.heyfriday.ai/ | Friday | AI 写作，营销文案|
-| https://waifulabs.com/ | WaifuLabs | AI 绘制自定义漫画肖像，做成游戏 |
-| https://www.nolibox.com/ | 计算美学Nolibox | AI 作画，AI 设计 |
+| https://github.com/anc95/writely | Writely | Chrome 浏览器插件，类似于 Notion AI，支持在任意编辑器网页上进行写作辅助  |
+| https://www.heyfriday.ai/ | Friday | AI 写作，营销文案 |
 | https://www.giiso.com/#/ | Giiso | AI 写作 |
-| https://interiorai.com/ | InteriorAI | 室内设计 AI |
-| https://chord.ooo | Chord | 通过总结 Reddit 和较大的专业型网站，来回答问题的搜索引擎，相当于从这些内容中脱水并进行总结，是联网的 LLM（大型语言模型） |
-| https://www.perplexity.ai/ | Perplexity | 人工智能引擎，你向它提问，它告诉你答案，支持中文 |
+| https://soundraw.io/ | Sounddraw | 一个 AI 音乐生成器 |
+| https://podcast.adobe.com/ | Adobe Podcast | AI 录音处理 |
+| https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
+| https://stablediffusionweb.com/ | Stable Diffusion | 文本到图像的模型。A latent text-to-image diffusion model |
+| https://www.nolibox.com/ | 计算美学Nolibox | AI 作画，AI 设计 |
+| https://runwayml.com/ | Runway | AI 视频 |
 | https://www.tabnine.com/ | Tabnine | Tabnine 是一个机器学习驱动的代码自动补全工具，是在 GPT-2 的基础上构建的，面向语言有 Java、Javascript、Python、PHP、Go、Rust、Ruby、C++、Typescript,支持的编辑器有 Visual Studio Code、Microsoft Visual Studio、SubLime、JetBrains 等 |
 | https://gitee.com/codegeex/CodeGeeX | CodeGeeX | 是一个具有 130 亿个参数的大型多语言代码生成模型，预先经过 20 多种编程语言的大型代码库训练，国产化支持。（最新描述达到千亿模型参数） |
 | https://github.com/features/copilot/ | Copilot | GitHub Copilot 是 GitHub 和 OpenAI 合作开发的一个人工智能工具，用户在使用 Visual Studio Code、Microsoft Visual Studio、Vim 或 JetBrains 集成开发环境时可以通过 GitHub Copilot 自动补全代码，主要面向 Python、JavaScript、TypeScript、Ruby 和 Go 等编程语言 |
-| https://thissneakerdoesnotexist.com/ | This sneaker does not exist | 所有运动鞋图片由机器学习模型生成 |
-| https://beta.tome.app/ | tome | AI 做PPT。AI-powered storytelling format |
+| https://www.d-id.com/ | D-ID | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. |
+| https://waifulabs.com/ | WaifuLabs | AI 绘制自定义漫画肖像，做成游戏 |
+| https://interiorai.com/ | InteriorAI | 室内设计 AI |
 | https://www.usegalileo.ai/ | Galileo AI | 一款利用 AI 技术生成 UI 界面的工具 |
+| https://beta.tome.app/ | tome | AI 做PPT。AI-powered storytelling format |
 | https://www.beautiful.ai/ | beautiful.ai | 可以帮助用户创建吸引人的、容易制作的演示文稿 |
-| https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
-| https://stablediffusionweb.com/ | Stable Diffusion | 文本到图像的模型。A latent text-to-image diffusion model |
-| https://openprompt.co/ | OpenPrompt | 创建，使用，分享 ChatGPT 的 Prompt |
+| https://chord.ooo | Chord | 通过总结 Reddit 和较大的专业型网站，来回答问题的搜索引擎，相当于从这些内容中脱水并进行总结，是联网的 LLM（大型语言模型） |
+| https://www.perplexity.ai/ | Perplexity | 人工智能引擎，你向它提问，它告诉你答案，支持中文 |
+| https://thissneakerdoesnotexist.com/ | This sneaker does not exist | 所有运动鞋图片由机器学习模型生成 |
+
+
 
 
 
@@ -53,6 +57,13 @@
 | https://datasette.io/ | Datasette | 开源的数据探索工具，可以从各种数据源导入数据，然后自定义数据的查询和展示形式（图表、仪表盘、地图等等） |
 | https://github.com/manticoresoftware/manticoresearch | Manticore Search | 一个开源的全文搜索引擎，号称可以替代 Elasticsearch，支持中文。 |
 | https://www.infrapedia.com/app | INFRAPEDIA | 全世界的主干光纤线路和机房位置 |
+
+
+
+## 数据管理
+
+| https://github.com/lcomplete/huntly | Huntly | 一款自托管的信息管理工具，可以订阅 RSS 和自动保存浏览过的网页，支持多维度的分类和搜索 |
+
 
 
 ## 区块链 - 去中心化
