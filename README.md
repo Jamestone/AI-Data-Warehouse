@@ -28,6 +28,7 @@
 | https://waifulabs.com/ | WaifuLabs | AI 绘制自定义漫画肖像，做成游戏 |
 | https://interiorai.com/ | InteriorAI | 室内设计 AI |
 | https://www.usegalileo.ai/ | Galileo AI | 一款利用 AI 技术生成 UI 界面的工具 |
+| https://b.jimmylv.cn/ | BibiGPT | 一键总结 Bilibili 音视频内容 Powered by GPT-3.5 AI |
 | https://beta.tome.app/ | tome | AI 做PPT。AI-powered storytelling format |
 | https://www.beautiful.ai/ | beautiful.ai | 可以帮助用户创建吸引人的、容易制作的演示文稿 |
 | https://chord.ooo | Chord | 通过总结 Reddit 和较大的专业型网站，来回答问题的搜索引擎，相当于从这些内容中脱水并进行总结，是联网的 LLM（大型语言模型） |
