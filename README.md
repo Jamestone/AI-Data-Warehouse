@@ -8,6 +8,7 @@
 | https://openai.com/dall-e-2/ | DALL·E 2 | AI 文本生成图像 |
 | https://www.hellohistory.ai/ | HelloHistory | Character.ai 的网站，允许用户创建"角色"，上传与该角色相关的资料，网站就会自动使用 AI 分析这些资料，生成该角色的聊天机器人，然后用户就可以跟它聊天了。|
 | https://openprompt.co/ | OpenPrompt | 创建，使用，分享 ChatGPT 的 Prompt |
+| https://github.com/f/awesome-chatgpt-prompts | ChatGPT-Prompt | This is a collection of prompt examples to be used with the ChatGPT model. |
 | https://promptperfect.jina.ai/ | PromptPerfect | 专为生成式 AI 优化输入提示（prompt）的工具。 |
 | https://github.com/Bin-Huang/chatbox | ChatBox | OpenAI API 跨平台桌面客户端，主要用作 Prompt Debugging Console |
 | https://www.jasper.ai/ | Jasper | AI 写作 |
@@ -20,6 +21,7 @@
 | https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
 | https://stablediffusionweb.com/ | Stable Diffusion | 文本到图像的模型。A latent text-to-image diffusion model |
 | https://www.nolibox.com/ | 计算美学Nolibox | AI 作画，AI 设计 |
+| https://firefly.adobe.com/ | Adobe Firefly | Adobe 公司推出的 AI 作图服务 |
 | https://runwayml.com/ | Runway | AI 视频 |
 | https://www.tabnine.com/ | Tabnine | Tabnine 是一个机器学习驱动的代码自动补全工具，是在 GPT-2 的基础上构建的，面向语言有 Java、Javascript、Python、PHP、Go、Rust、Ruby、C++、Typescript,支持的编辑器有 Visual Studio Code、Microsoft Visual Studio、SubLime、JetBrains 等 |
 | https://gitee.com/codegeex/CodeGeeX | CodeGeeX | 是一个具有 130 亿个参数的大型多语言代码生成模型，预先经过 20 多种编程语言的大型代码库训练，国产化支持。（最新描述达到千亿模型参数） |
@@ -34,6 +36,7 @@
 | https://chord.ooo | Chord | 通过总结 Reddit 和较大的专业型网站，来回答问题的搜索引擎，相当于从这些内容中脱水并进行总结，是联网的 LLM（大型语言模型） |
 | https://www.perplexity.ai/ | Perplexity | 人工智能引擎，你向它提问，它告诉你答案，支持中文 |
 | https://thissneakerdoesnotexist.com/ | This sneaker does not exist | 所有运动鞋图片由机器学习模型生成 |
+| https://github.com/josStorer/chatGPTBox | ChatGPT Box | 浏览器插件，将 ChatGPT 与浏览器融合，同时对常用网站做了 ChatGPT 加强 |
 
 
 
