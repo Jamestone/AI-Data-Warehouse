@@ -47,9 +47,11 @@
 
 |  链接  | 名称 | 简介 |
 |  ----  | ----  | ----  |
+| https://openai.com/blog/chatgpt-plugins | ChatGPT plugins | ChatGPT 官方插件市场 |
 | https://winkjs.org/wink-nlp/ | Wink-NLP | JS 库，提供易用的自然语言处理（nlp），不过目前只支持英语。|
 | https://github.com/lllyasviel/ControlNet | ControlNet | ControlNet is a neural network structure to control diffusion models by adding extra conditions. |
 | https://wenxin.baidu.com/ | 百度文心大模型 WenxinAI | 文心大模型，AI应用场景全覆盖，NLP、CV、跨模态、生物计算、行业模型 |
+
 
 
 ## 数据
