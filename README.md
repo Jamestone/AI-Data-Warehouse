@@ -4,7 +4,7 @@
 
 |  分类  |  链接  | 名称 | 简介 |
 |  ----  |  ----  | ----  |----  |
-| AI 聊天 11| https://chat.openai.com/chat | ChatGPT | AI 聊天机器人 |
+| AI 聊天 ---| https://chat.openai.com/chat | ChatGPT | AI 聊天机器人 |
 | AI 图像 | https://openai.com/dall-e-2/ | DALL·E 2 | AI 文本生成图像 |
 | AI 聊天 | https://www.hellohistory.ai/ | HelloHistory | Character.ai 的网站，允许用户创建"角色"，上传与该角色相关的资料，网站就会自动使用 AI 分析这些资料，生成该角色的聊天机器人，然后用户就可以跟它聊天了。|
 | AI 聊天 | https://openprompt.co/ | OpenPrompt | 创建，使用，分享 ChatGPT 的 Prompt |
