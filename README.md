@@ -34,6 +34,7 @@
 | AI 应用 | https://b.jimmylv.cn/ | BibiGPT | 一键总结 Bilibili 音视频内容 Powered by GPT-3.5 AI |
 | AI 应用 | https://beta.tome.app/ | tome | AI 做PPT。AI-powered storytelling format |
 | AI 应用 | https://www.beautiful.ai/ | beautiful.ai | 可以帮助用户创建吸引人的、容易制作的演示文稿 |
+| AI 应用 | https://www.sqlchat.ai/ | SQL Chat | 一个 Web 应用，使用自然语言查询数据库，底层使用 OpenAI 的 API 将自然语言转成 SQL，支持 MySQL 和 PostgreSQL，[代码开源](https://github.com/bytebase/sqlchat) |
 | AI 搜索 | https://chord.ooo | Chord | 通过总结 Reddit 和较大的专业型网站，来回答问题的搜索引擎，相当于从这些内容中脱水并进行总结，是联网的 LLM（大型语言模型） |
 | AI 搜索 | https://www.perplexity.ai/ | Perplexity | 人工智能引擎，你向它提问，它告诉你答案，支持中文 |
 | AI 图像 | https://thissneakerdoesnotexist.com/ | This sneaker does not exist | 所有运动鞋图片由机器学习模型生成 |
