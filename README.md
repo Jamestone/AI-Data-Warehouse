@@ -11,6 +11,7 @@
 | https://github.com/f/awesome-chatgpt-prompts | ChatGPT-Prompt | This is a collection of prompt examples to be used with the ChatGPT model. |
 | https://promptperfect.jina.ai/ | PromptPerfect | 专为生成式 AI 优化输入提示（prompt）的工具。 |
 | https://github.com/Bin-Huang/chatbox | ChatBox | OpenAI API 跨平台桌面客户端，主要用作 Prompt Debugging Console |
+| https://github.com/ChatGPT-Desktop/ChatGPT-Desktop | ChatGPT-Desktop | 开源的跨平台 ChatGPT 桌面应用程序，使用 Tauri + Vue3 开发 |
 | https://www.jasper.ai/ | Jasper | AI 写作 |
 | https://x.moyin.com/ | 魔撰写作 | AI 写作、润色 |
 | https://github.com/anc95/writely | Writely | Chrome 浏览器插件，类似于 Notion AI，支持在任意编辑器网页上进行写作辅助  |
