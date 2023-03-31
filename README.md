@@ -6,6 +6,7 @@
 |  ----  |  ----  | ----  |----  |
 | AI 聊天 —————| https://chat.openai.com/chat | ChatGPT | AI 聊天机器人 |
 | AI 图像 | https://openai.com/dall-e-2/ | DALL·E 2 | AI 文本生成图像 |
+| AI 聊天 | https://bard.google.com/ | Google Bard | Google 的大语言模型 |
 | AI 聊天 | https://www.hellohistory.ai/ | HelloHistory | Character.ai 的网站，允许用户创建"角色"，上传与该角色相关的资料，网站就会自动使用 AI 分析这些资料，生成该角色的聊天机器人，然后用户就可以跟它聊天了。|
 | AI 聊天 | https://openprompt.co/ | OpenPrompt | 创建，使用，分享 ChatGPT 的 Prompt |
 | AI 聊天 | https://github.com/f/awesome-chatgpt-prompts | ChatGPT-Prompt | This is a collection of prompt examples to be used with the ChatGPT model. |
@@ -21,6 +22,7 @@
 | AI 音频 | https://podcast.adobe.com/ | Adobe Podcast | AI 录音处理 |
 | AI 图像 | https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
 | AI 图像 | https://stablediffusionweb.com/ | Stable Diffusion | 文本到图像的模型。A latent text-to-image diffusion model |
+| AI 图像 | https://cn.bing.com/create | Bing Image Creator | Microsoft 发布的 AI 绘图工具，基于 OpenAI 的 DALL-E 模型 |
 | AI 图像 | https://www.nolibox.com/ | 计算美学Nolibox | AI 作画，AI 设计 |
 | AI 图像 | https://firefly.adobe.com/ | Adobe Firefly | Adobe 公司推出的 AI 作图服务 |
 | AI 视频 | https://runwayml.com/ | Runway | AI 视频 |
