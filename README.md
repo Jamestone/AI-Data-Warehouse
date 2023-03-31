@@ -2,7 +2,7 @@
 
 ## AI 产品
 
-|  分类  |  链接  | 名称 | 简介 |
+|  产品分类  |  链接  | 名称 | 简介 |
 |  ----  |  ----  | ----  |----  |
 | AI 聊天       | https://chat.openai.com/chat | ChatGPT | AI 聊天机器人 |
 | AI 图像 | https://openai.com/dall-e-2/ | DALL·E 2 | AI 文本生成图像 |
