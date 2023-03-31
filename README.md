@@ -27,6 +27,7 @@
 | AI 代码辅助 | https://www.tabnine.com/ | Tabnine | Tabnine 是一个机器学习驱动的代码自动补全工具，是在 GPT-2 的基础上构建的，面向语言有 Java、Javascript、Python、PHP、Go、Rust、Ruby、C++、Typescript,支持的编辑器有 Visual Studio Code、Microsoft Visual Studio、SubLime、JetBrains 等 |
 | AI 代码辅助 | https://gitee.com/codegeex/CodeGeeX | CodeGeeX | 是一个具有 130 亿个参数的大型多语言代码生成模型，预先经过 20 多种编程语言的大型代码库训练，国产化支持。（最新描述达到千亿模型参数） |
 | AI 代码辅助 | https://github.com/features/copilot/ | Copilot | GitHub Copilot 是 GitHub 和 OpenAI 合作开发的一个人工智能工具，用户在使用 Visual Studio Code、Microsoft Visual Studio、Vim 或 JetBrains 集成开发环境时可以通过 GitHub Copilot 自动补全代码，主要面向 Python、JavaScript、TypeScript、Ruby 和 Go 等编程语言 |
+| AI 代码辅助 | https://www.cursor.so/ | Cursor | Write, edit, and chat about your code with a powerful AI |
 | AI 视频 | https://www.d-id.com/ | D-ID | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers. |
 | AI 应用 | https://waifulabs.com/ | WaifuLabs | AI 绘制自定义漫画肖像，做成游戏 |
 | AI 应用 | https://interiorai.com/ | InteriorAI | 室内设计 AI |
