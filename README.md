@@ -44,6 +44,7 @@
 | AI 图像 | https://thissneakerdoesnotexist.com/ | This sneaker does not exist | 所有运动鞋图片由机器学习模型生成 |
 | AI 应用 | https://github.com/josStorer/chatGPTBox | ChatGPT Box | 浏览器插件，将 ChatGPT 与浏览器融合，同时对常用网站做了 ChatGPT 加强 |
 | AI 应用 | https://zapier.com/ | Zapoer | 集成 Web 应用程序，实现工作流程自动化 |
+| AI 应用 | https://chatthing.ai/ | Chat Thing | 集成自己的数据，与自己的文档或 Web 应用对话 |
 
 
 
