@@ -43,6 +43,7 @@
 | AI 搜索 | https://www.perplexity.ai/ | Perplexity | 人工智能引擎，你向它提问，它告诉你答案，支持中文 |
 | AI 图像 | https://thissneakerdoesnotexist.com/ | This sneaker does not exist | 所有运动鞋图片由机器学习模型生成 |
 | AI 应用 | https://github.com/josStorer/chatGPTBox | ChatGPT Box | 浏览器插件，将 ChatGPT 与浏览器融合，同时对常用网站做了 ChatGPT 加强 |
+| AI 应用 | https://zapier.com/ | Zapoer | 集成 Web 应用程序，实现工作流程自动化 |
 
 
 
