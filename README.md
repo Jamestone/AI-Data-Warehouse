@@ -18,6 +18,7 @@
 | AI 写作 | https://github.com/anc95/writely | Writely | Chrome 浏览器插件，类似于 Notion AI，支持在任意编辑器网页上进行写作辅助  |
 | AI 写作 | https://www.heyfriday.ai/ | Friday | AI 写作，营销文案 |
 | AI 写作 | https://www.giiso.com/#/ | Giiso | AI 写作 |
+| AI 写作 | https://copymatic.ai/ | copymatic | AI 写作社媒广告文案，网站 SEO 优化内容，博客，电商产品信息 |
 | AI 音频 | https://soundraw.io/ | Sounddraw | 一个 AI 音乐生成器 |
 | AI 音频 | https://podcast.adobe.com/ | Adobe Podcast | AI 录音处理 |
 | AI 图像 | https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
