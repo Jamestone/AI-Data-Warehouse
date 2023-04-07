@@ -13,6 +13,7 @@
 | AI 聊天 | https://promptperfect.jina.ai/ | PromptPerfect | 专为生成式 AI 优化输入提示（prompt）的工具。 |
 | AI 聊天 | https://github.com/Bin-Huang/chatbox | ChatBox | OpenAI API 跨平台桌面客户端，主要用作 Prompt Debugging Console |
 | AI 聊天 | https://github.com/ChatGPT-Desktop/ChatGPT-Desktop | ChatGPT-Desktop | 开源的跨平台 ChatGPT 桌面应用程序，使用 Tauri + Vue3 开发 |
+| AI 聊天 | https://freedomgpt.com/ | FreedomGPT | 一个号称完全自由的 GPT 聊天模型，不带有任何内容审查和过滤机制，有 Web 版和桌面端。 |
 | AI 写作 | https://www.jasper.ai/ | Jasper | AI 写作 |
 | AI 写作 | https://x.moyin.com/ | 魔撰写作 | AI 写作、润色 |
 | AI 写作 | https://github.com/anc95/writely | Writely | Chrome 浏览器插件，类似于 Notion AI，支持在任意编辑器网页上进行写作辅助  |
@@ -26,6 +27,7 @@
 | AI 图像 | https://cn.bing.com/create | Bing Image Creator | Microsoft 发布的 AI 绘图工具，基于 OpenAI 的 DALL-E 模型 |
 | AI 图像 | https://www.nolibox.com/ | 计算美学Nolibox | AI 作画，AI 设计 |
 | AI 图像 | https://firefly.adobe.com/ | Adobe Firefly | Adobe 公司推出的 AI 作图服务 |
+| AI 图像 | https://replicate.com/andreasjansson/blip-2 | cog-blip-2 | BLIP 2 模型的一个应用。网页上传一张图片，就可以提问相关问题，比如照片景色是在哪里 |
 | AI 视频 | https://runwayml.com/ | Runway | AI 视频 |
 | AI 代码辅助 | https://www.tabnine.com/ | Tabnine | Tabnine 是一个机器学习驱动的代码自动补全工具，是在 GPT-2 的基础上构建的，面向语言有 Java、Javascript、Python、PHP、Go、Rust、Ruby、C++、Typescript,支持的编辑器有 Visual Studio Code、Microsoft Visual Studio、SubLime、JetBrains 等 |
 | AI 代码辅助 | https://gitee.com/codegeex/CodeGeeX | CodeGeeX | 是一个具有 130 亿个参数的大型多语言代码生成模型，预先经过 20 多种编程语言的大型代码库训练，国产化支持。（最新描述达到千亿模型参数） |
@@ -45,6 +47,11 @@
 | AI 应用 | https://github.com/josStorer/chatGPTBox | ChatGPT Box | 浏览器插件，将 ChatGPT 与浏览器融合，同时对常用网站做了 ChatGPT 加强 |
 | AI 应用 | https://zapier.com/ | Zapoer | 集成 Web 应用程序，实现工作流程自动化 |
 | AI 应用 | https://chatthing.ai/ | Chat Thing | 集成自己的数据，与自己的文档或 Web 应用对话 |
+| AI 应用 | https://apps.apple.com/cn/app/id6447090616?platform=iphone | Whisper Notes | 一个免费的 iOS 应用，在手机上实现了离线 OpenAI Whisper 模型，可以将语音输入以极高的准确率转成文字 |
+| AI 应用 | https://chatgpt-i18n.vercel.app/ | chatgpt-i18n | 借助 ChatGPT，翻译 i18n 的 JSON 文件，只需数十秒即可完成多语言国际化 |
+| AI 应用 | https://sharegpt.com/ | ShareGPT | 分享 ChatGPT 的聊天结果。你需要安装一个浏览器插件，它会返回一个可分享的 URL |
+| AI 应用 | https://www.careered.ai/tool/cover-letter | AI 求职信生成器 | 在该网站上输入职位描述和你的简历，它会自动生成一封求职信。 |
+| AI 应用 | https://shrinkai.di.unimi.it/ | AI goes to the shrink | 这个网站让 AI 随便生成一段文本，再将这段文本输入 Stable Diffusion 模型，生成配图。网页每10秒就自动刷新，相当于每10秒看一张完全由 AI 创造的图片。 |
 
 
 
