@@ -5,7 +5,6 @@
 |  分类  |  链接  | 名称 | 简介 |
 |  ----  |  ----  | ----  |----  |
 | AI 聊天 —————| https://chat.openai.com/chat | ChatGPT | AI 聊天机器人 |
-| AI 图像 | https://openai.com/dall-e-2/ | DALL·E 2 | AI 文本生成图像 |
 | AI 聊天 | https://bard.google.com/ | Google Bard | Google 的大语言模型 |
 | AI 聊天 | https://www.hellohistory.ai/ | HelloHistory | Character.ai 的网站，允许用户创建"角色"，上传与该角色相关的资料，网站就会自动使用 AI 分析这些资料，生成该角色的聊天机器人，然后用户就可以跟它聊天了。|
 | AI 聊天 | https://openprompt.co/ | OpenPrompt | 创建，使用，分享 ChatGPT 的 Prompt |
@@ -22,6 +21,7 @@
 | AI 写作 | https://copymatic.ai/ | copymatic | AI 写作社媒广告文案，网站 SEO 优化内容，博客，电商产品信息 |
 | AI 音频 | https://soundraw.io/ | Sounddraw | 一个 AI 音乐生成器 |
 | AI 音频 | https://podcast.adobe.com/ | Adobe Podcast | AI 录音处理 |
+| AI 图像 | https://openai.com/dall-e-2/ | DALL·E 2 | AI 文本生成图像 |
 | AI 图像 | https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
 | AI 图像 | https://stablediffusionweb.com/ | Stable Diffusion | 文本到图像的模型。A latent text-to-image diffusion model |
 | AI 图像 | https://cn.bing.com/create | Bing Image Creator | Microsoft 发布的 AI 绘图工具，基于 OpenAI 的 DALL-E 模型 |
@@ -29,6 +29,7 @@
 | AI 图像 | https://firefly.adobe.com/ | Adobe Firefly | Adobe 公司推出的 AI 作图服务 |
 | AI 图像 | https://replicate.com/andreasjansson/blip-2 | cog-blip-2 | BLIP 2 模型的一个应用。网页上传一张图片，就可以提问相关问题，比如照片景色是在哪里 |
 | AI 图像 | https://wordasimage.github.io/Word-As-Image-Page/ | Word-As-Image for Semantic Typography | 一个(即将)开源的 AI 项目, 可以让文字(英文和中文)形象化, 也就是所谓的文字即图像 |
+|||||
 | AI 视频 | https://runwayml.com/ | Runway | AI 视频 |
 | AI 代码辅助 | https://www.tabnine.com/ | Tabnine | Tabnine 是一个机器学习驱动的代码自动补全工具，是在 GPT-2 的基础上构建的，面向语言有 Java、Javascript、Python、PHP、Go、Rust、Ruby、C++、Typescript,支持的编辑器有 Visual Studio Code、Microsoft Visual Studio、SubLime、JetBrains 等 |
 | AI 代码辅助 | https://gitee.com/codegeex/CodeGeeX | CodeGeeX | 是一个具有 130 亿个参数的大型多语言代码生成模型，预先经过 20 多种编程语言的大型代码库训练，国产化支持。（最新描述达到千亿模型参数） |
@@ -53,8 +54,14 @@
 | AI 应用 | https://sharegpt.com/ | ShareGPT | 分享 ChatGPT 的聊天结果。你需要安装一个浏览器插件，它会返回一个可分享的 URL |
 | AI 应用 | https://www.careered.ai/tool/cover-letter | AI 求职信生成器 | 在该网站上输入职位描述和你的简历，它会自动生成一封求职信。 |
 | AI 应用 | https://shrinkai.di.unimi.it/ | AI goes to the shrink | 这个网站让 AI 随便生成一段文本，再将这段文本输入 Stable Diffusion 模型，生成配图。网页每10秒就自动刷新，相当于每10秒看一张完全由 AI 创造的图片。 |
+| AI 应用 | https://segment-anything.com/ | https://segment-anything.com/ | 物体识别 A new AI model from Meta AI that can "cut out" any object, in any image, with a single click |
 
 
+## AI 教程及文档
+
+|  链接  | 名称 | 简介 |
+|  ----  | ----  | ----  |
+| https://learningprompt.wiki/ | Learning Prompt | 免费的 Prompt Engineering 教程现已包含 ChatGPT 和 Midjourney 教程 |
 
 
 
