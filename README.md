@@ -29,7 +29,7 @@
 | AI 图像 | https://firefly.adobe.com/ | Adobe Firefly | Adobe 公司推出的 AI 作图服务 |
 | AI 图像 | https://replicate.com/andreasjansson/blip-2 | cog-blip-2 | BLIP 2 模型的一个应用。网页上传一张图片，就可以提问相关问题，比如照片景色是在哪里 |
 | AI 图像 | https://wordasimage.github.io/Word-As-Image-Page/ | Word-As-Image for Semantic Typography | 一个(即将)开源的 AI 项目, 可以让文字(英文和中文)形象化, 也就是所谓的文字即图像 |
-|||||
+| AI 图像 | https://scenex.jinaai.cn/ | SceneXplain | 一个能讲述图片背后故事的API服务,把最新的大模型应用到图像上的每一个细节，为每一张图片生成细致的文本描述 |
 | AI 视频 | https://runwayml.com/ | Runway | AI 视频 |
 | AI 代码辅助 | https://www.tabnine.com/ | Tabnine | Tabnine 是一个机器学习驱动的代码自动补全工具，是在 GPT-2 的基础上构建的，面向语言有 Java、Javascript、Python、PHP、Go、Rust、Ruby、C++、Typescript,支持的编辑器有 Visual Studio Code、Microsoft Visual Studio、SubLime、JetBrains 等 |
 | AI 代码辅助 | https://gitee.com/codegeex/CodeGeeX | CodeGeeX | 是一个具有 130 亿个参数的大型多语言代码生成模型，预先经过 20 多种编程语言的大型代码库训练，国产化支持。（最新描述达到千亿模型参数） |
@@ -74,6 +74,7 @@
 | https://winkjs.org/wink-nlp/ | Wink-NLP | JS 库，提供易用的自然语言处理（nlp），不过目前只支持英语。|
 | https://github.com/lllyasviel/ControlNet | ControlNet | ControlNet is a neural network structure to control diffusion models by adding extra conditions. |
 | https://wenxin.baidu.com/ | 百度文心大模型 WenxinAI | 文心大模型，AI应用场景全覆盖，NLP、CV、跨模态、生物计算、行业模型 |
+| https://mlc.ai/web-llm/ | Web LLM | 这个软件通过 WebGPU API，在浏览器里面运行 LLM 模型，可以离线运行，并且不限定模型 |
 
 
 
