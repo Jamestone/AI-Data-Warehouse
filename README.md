@@ -55,6 +55,7 @@
 | AI 应用 | https://www.careered.ai/tool/cover-letter | AI 求职信生成器 | 在该网站上输入职位描述和你的简历，它会自动生成一封求职信。 |
 | AI 应用 | https://shrinkai.di.unimi.it/ | AI goes to the shrink | 这个网站让 AI 随便生成一段文本，再将这段文本输入 Stable Diffusion 模型，生成配图。网页每10秒就自动刷新，相当于每10秒看一张完全由 AI 创造的图片。 |
 | AI 应用 | https://segment-anything.com/ | https://segment-anything.com/ | 物体识别 A new AI model from Meta AI that can "cut out" any object, in any image, with a single click |
+| AI 应用 | https://agentgpt.reworkd.ai/ | AgentGPT | 自主实现目标的 AI 模型，能够连续连贯生成文本，有 UI 界面 |
 
 
 ## AI 教程及文档
