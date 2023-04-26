@@ -13,6 +13,7 @@
 | AI 聊天 | https://github.com/Bin-Huang/chatbox | ChatBox | OpenAI API 跨平台桌面客户端，主要用作 Prompt Debugging Console |
 | AI 聊天 | https://github.com/ChatGPT-Desktop/ChatGPT-Desktop | ChatGPT-Desktop | 开源的跨平台 ChatGPT 桌面应用程序，使用 Tauri + Vue3 开发 |
 | AI 聊天 | https://freedomgpt.com/ | FreedomGPT | 一个号称完全自由的 GPT 聊天模型，不带有任何内容审查和过滤机制，有 Web 版和桌面端。 |
+| AI 聊天 | https://www.meetcody.ai/ | cody | Your AI-Assistant for Business |
 | AI 写作 | https://www.jasper.ai/ | Jasper | AI 写作 |
 | AI 写作 | https://x.moyin.com/ | 魔撰写作 | AI 写作、润色 |
 | AI 写作 | https://github.com/anc95/writely | Writely | Chrome 浏览器插件，类似于 Notion AI，支持在任意编辑器网页上进行写作辅助  |
@@ -56,6 +57,7 @@
 | AI 应用 | https://shrinkai.di.unimi.it/ | AI goes to the shrink | 这个网站让 AI 随便生成一段文本，再将这段文本输入 Stable Diffusion 模型，生成配图。网页每10秒就自动刷新，相当于每10秒看一张完全由 AI 创造的图片。 |
 | AI 应用 | https://segment-anything.com/ | https://segment-anything.com/ | 物体识别 A new AI model from Meta AI that can "cut out" any object, in any image, with a single click |
 | AI 应用 | https://agentgpt.reworkd.ai/ | AgentGPT | 自主实现目标的 AI 模型，能够连续连贯生成文本，有 UI 界面 |
+| AI 应用 | https://www.sqlkiller.com/ | SQL Killer | 直接描述你的取数需求，一键生成SQL |
 
 
 ## AI 教程及文档
