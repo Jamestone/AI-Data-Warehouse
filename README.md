@@ -58,6 +58,7 @@
 | AI 应用 | https://segment-anything.com/ | https://segment-anything.com/ | 物体识别 A new AI model from Meta AI that can "cut out" any object, in any image, with a single click |
 | AI 应用 | https://agentgpt.reworkd.ai/ | AgentGPT | 自主实现目标的 AI 模型，能够连续连贯生成文本，有 UI 界面 |
 | AI 应用 | https://www.sqlkiller.com/ | SQL Killer | 直接描述你的取数需求，一键生成SQL |
+| AI 应用 | https://meet.google.com/zqy-rhni-zji | AI 法律助手 | 将中国法律法规喂给 ChatGPT，做成的法律问答引擎，代码开源 |
 
 
 ## AI 教程及文档
