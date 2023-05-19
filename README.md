@@ -79,6 +79,7 @@
 | https://github.com/lllyasviel/ControlNet | ControlNet | ControlNet is a neural network structure to control diffusion models by adding extra conditions. |
 | https://wenxin.baidu.com/ | 百度文心大模型 WenxinAI | 文心大模型，AI应用场景全覆盖，NLP、CV、跨模态、生物计算、行业模型 |
 | https://mlc.ai/web-llm/ | Web LLM | 这个软件通过 WebGPU API，在浏览器里面运行 LLM 模型，可以离线运行，并且不限定模型 |
+| https://dify.ai/ | Dify | 一个开发者工具，帮你快速生成基于 AI 的应用 |
 
 
 
