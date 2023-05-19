@@ -14,6 +14,7 @@
 | AI 聊天 | https://github.com/ChatGPT-Desktop/ChatGPT-Desktop | ChatGPT-Desktop | 开源的跨平台 ChatGPT 桌面应用程序，使用 Tauri + Vue3 开发 |
 | AI 聊天 | https://freedomgpt.com/ | FreedomGPT | 一个号称完全自由的 GPT 聊天模型，不带有任何内容审查和过滤机制，有 Web 版和桌面端。 |
 | AI 聊天 | https://www.meetcody.ai/ | cody | Your AI-Assistant for Business |
+| AI 聊天 | https://huggingface.co/chat/ | HuggingChat | AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型，免费使用 |
 | AI 写作 | https://www.jasper.ai/ | Jasper | AI 写作 |
 | AI 写作 | https://x.moyin.com/ | 魔撰写作 | AI 写作、润色 |
 | AI 写作 | https://github.com/anc95/writely | Writely | Chrome 浏览器插件，类似于 Notion AI，支持在任意编辑器网页上进行写作辅助  |
@@ -59,6 +60,8 @@
 | AI 应用 | https://agentgpt.reworkd.ai/ | AgentGPT | 自主实现目标的 AI 模型，能够连续连贯生成文本，有 UI 界面 |
 | AI 应用 | https://www.sqlkiller.com/ | SQL Killer | 直接描述你的取数需求，一键生成SQL |
 | AI 应用 | https://meet.google.com/zqy-rhni-zji | AI 法律助手 | 将中国法律法规喂给 ChatGPT，做成的法律问答引擎，代码开源 |
+| AI 应用 | https://damngood.tools/tools/chat-pdf | Chat with any PDF | 上传一个 PDF 文件，就能跟该文件交谈，让它回答相关问题 |
+| AI 应用 | https://scholarturbo.com/ | ScholarTurbo | Use ChatGPT to chat with PDFs (supports GPT-4*) |
 
 
 ## AI 教程及文档
