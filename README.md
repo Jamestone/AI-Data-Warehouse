@@ -122,4 +122,5 @@
 |  链接  | 名称 | 简介 |
 |  ----  | ----  | ----  |
 | https://github.com/sindresorhus/awesome-chatgpt | Awesome-ChatGPT | 这个 awesome 仓库收集 ChatGPT 的各种资源 |
+| https://hao.uisdc.com/ai/ | 优设 | 百万设计师都在用的AI工具导航 |
 
