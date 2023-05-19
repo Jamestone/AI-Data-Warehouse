@@ -83,6 +83,7 @@
 | https://wenxin.baidu.com/ | 百度文心大模型 WenxinAI | 文心大模型，AI应用场景全覆盖，NLP、CV、跨模态、生物计算、行业模型 |
 | https://mlc.ai/web-llm/ | Web LLM | 这个软件通过 WebGPU API，在浏览器里面运行 LLM 模型，可以离线运行，并且不限定模型 |
 | https://dify.ai/ | Dify | 一个开发者工具，帮你快速生成基于 AI 的应用 |
+| https://github.com/pengxiao-song/LawGPT | LaWGPT | 基于中文法律知识的开源大语言模型，很适合用于司法考试 |
 
 
 
@@ -111,4 +112,12 @@
 |  链接  | 名称 | 简介 |
 |  ----  | ----  | ----  |
 | https://skydroid.app/ | SkyDroid | 一个分布式的安卓应用商店，发布应用就是自己架一个服务器，把应用放上去，一个小时之内就会被全球索引。它的好处就是没人能下架你的应用 |
+
+
+
+
+## AI 聚合
+|  链接  | 名称 | 简介 |
+|  ----  | ----  | ----  |
+| https://github.com/sindresorhus/awesome-chatgpt | Awesome-ChatGPT | 这个 awesome 仓库收集 ChatGPT 的各种资源 |
 
