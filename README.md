@@ -84,6 +84,7 @@
 | https://mlc.ai/web-llm/ | Web LLM | 这个软件通过 WebGPU API，在浏览器里面运行 LLM 模型，可以离线运行，并且不限定模型 |
 | https://dify.ai/ | Dify | 一个开发者工具，帮你快速生成基于 AI 的应用 |
 | https://github.com/pengxiao-song/LawGPT | LaWGPT | 基于中文法律知识的开源大语言模型，很适合用于司法考试 |
+| https://chatglm.cn/ | ChatGLM | 旨在推动大模型的科学研究，面向高校学术交流与行业合作的千亿对话模型，由清华大学KEG实验室和智谱AI联合开源的、基于GLM架构、支持中英双语的对话语言模型 |
 
 
 
