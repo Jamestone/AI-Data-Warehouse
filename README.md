@@ -15,6 +15,7 @@
 | AI 聊天 | https://freedomgpt.com/ | FreedomGPT | 一个号称完全自由的 GPT 聊天模型，不带有任何内容审查和过滤机制，有 Web 版和桌面端。 |
 | AI 聊天 | https://www.meetcody.ai/ | cody | Your AI-Assistant for Business |
 | AI 聊天 | https://huggingface.co/chat/ | HuggingChat | AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型，免费使用 |
+| AI 聊天 | https://www.anthropic.com/product | Claude | A next-generation AI assistant for your tasks, no matter the scale |
 | AI 写作 | https://www.jasper.ai/ | Jasper | AI 写作 |
 | AI 写作 | https://x.moyin.com/ | 魔撰写作 | AI 写作、润色 |
 | AI 写作 | https://github.com/anc95/writely | Writely | Chrome 浏览器插件，类似于 Notion AI，支持在任意编辑器网页上进行写作辅助  |
