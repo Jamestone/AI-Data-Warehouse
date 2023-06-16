@@ -24,6 +24,7 @@
 | AI 写作 | https://copymatic.ai/ | copymatic | AI 写作社媒广告文案，网站 SEO 优化内容，博客，电商产品信息 |
 | AI 音频 | https://soundraw.io/ | Sounddraw | 一个 AI 音乐生成器 |
 | AI 音频 | https://podcast.adobe.com/ | Adobe Podcast | AI 录音处理 |
+| AI 音频 | https://github.com/suno-ai/bark | Bark | 文字转语音，能加入笑声等，支持多语言 |
 | AI 图像 | https://openai.com/dall-e-2/ | DALL·E 2 | AI 文本生成图像 |
 | AI 图像 | https://www.midjourney.com/ | MidJourney | AI 绘画工具 |
 | AI 图像 | https://stablediffusionweb.com/ | Stable Diffusion | 文本到图像的模型。A latent text-to-image diffusion model |
