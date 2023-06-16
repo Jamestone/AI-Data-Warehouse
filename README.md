@@ -64,6 +64,7 @@
 | AI 应用 | https://meet.google.com/zqy-rhni-zji | AI 法律助手 | 将中国法律法规喂给 ChatGPT，做成的法律问答引擎，代码开源 |
 | AI 应用 | https://damngood.tools/tools/chat-pdf | Chat with any PDF | 上传一个 PDF 文件，就能跟该文件交谈，让它回答相关问题 |
 | AI 应用 | https://scholarturbo.com/ | ScholarTurbo | Use ChatGPT to chat with PDFs (supports GPT-4*) |
+| AI 应用 | https://zh.reroom.ai/ | ReRoom AI | 室内设计AI 渲染工具，上传房间照片/设计草稿，探索各种设计风格（20+） |
 
 
 ## AI 教程及文档
